@@ -32,6 +32,7 @@ carpentry: "swc"
 # dc-geospatial: for Data Carpentry Geospatial
 # swc-inflammation: for Software Carpentry based on the inflammation dataset
 # swc-gapminder: for Software Carpentry based on the Gapminder dataset
+# ka-intro-to-ai: for the KAUST Academy Introduction to AI curriculum
 curriculum: "FIXME"
 
 # If there is both an R and python official version of a curriculum
@@ -87,7 +88,7 @@ repository: <USERNAME>/<PROJECT>
 # Email address, no mailto:
 # (Don't change this -- the contact address for your workshop will be set
 # in the index.md file)
-email: "team@carpentries.org"
+email: "academy@kaust.edu.sa"
 
 # Sites.
 amy_site: "https://amy.carpentries.org"
@@ -102,6 +103,7 @@ lc_site: "https://librarycarpentry.org/"
 swc_github: "https://github.com/swcarpentry"
 swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
+ka_site: "https://academy.kaust.edu.sa"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
 workshop_repo: "https://github.com/carpentries/workshop-template"
